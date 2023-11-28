@@ -1,0 +1,22 @@
+{
+  "name": "serpentine-syntax",
+  "displayName": "Poison Serpent",
+  "description": "custom by Krisada",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.84.0"
+  },
+  "publisher": "Krisada-3131",
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Poison Serpent",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Serpent-color-theme.json"
+      }
+    ]
+  }
+}
