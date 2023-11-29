@@ -6,6 +6,12 @@
     "colorSpaceNameff": "sRGB",
     "colorSpaceNamfe": "sRGB",
     "colors": {
+        "editorInlayHint.background": "#062621",
+        "editorInlayHint.foreground": "#7affceca",
+        "editorInlayHint.parameterBackground": "#062621",
+        "editorInlayHint.parameterForeground": "#7affceca",
+        "editorInlayHint.typeBackground": "#062621",
+        "editorInlayHint.typeForeground": "#7affceca",
         "errorLens.errorBackground": "#b8002523",
         "errorLens.errorMessageBackground": "#b8002520",
         "errorLens.errorRangeBackground": "#b8002520",
