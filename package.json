@@ -2,7 +2,7 @@
   "name": "serpentine-syntax",
   "displayName": "Poison Serpent",
   "description": "custom by Krisada",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "engines": {
     "vscode": "^1.84.0"
   },
