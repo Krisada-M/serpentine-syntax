@@ -33,8 +33,12 @@
         "activityBar.activeFocusBorder": "#fce566",
         "activityBar.background": "#040c0b",
         "activityBar.border": "#b8002500",
-        "activityBar.foreground": "#ff1342",
+        "activityBar.foreground": "#63e6bd",
         "activityBar.inactiveForeground": "#3d996b",
+        "activityBarTop.activeBorder": "#b80025",
+        "activityBarTop.dropBorder": "#b80025",
+        "activityBarTop.foreground": "#63e6bd",
+        "activityBarTop.inactiveForeground": "#3d996b",
         "activityBarBadge.background": "#b80025",
         "activityBarBadge.foreground": "#f2e6e9",
         "badge.background": "#b80025",
@@ -57,7 +61,7 @@
         "charts.green": "#7bd88f",
         "charts.lines": "#69676c",
         "charts.orange": "#fd9353",
-        "charts.purple": "#8071ee",
+        "charts.purple": "#A887FC",
         "charts.red": "#ef596f",
         "charts.yellow": "#fce566",
         "checkbox.background": "#040c0b",
@@ -94,7 +98,7 @@
         "debugTokenExpression.boolean": "#fd9353",
         "debugTokenExpression.error": "#ef596f",
         "debugTokenExpression.name": "#5ad4e6",
-        "debugTokenExpression.number": "#8071ee",
+        "debugTokenExpression.number": "#A887FC",
         "debugTokenExpression.string": "#fce566",
         "debugTokenExpression.value": "#f7f1ff",
         "debugToolBar.background": "#061a17",
@@ -149,7 +153,7 @@
         "editorBracketHighlight.foreground3": "#fce566",
         "editorBracketHighlight.foreground4": "#7bd88f",
         "editorBracketHighlight.foreground5": "#5ad4e6",
-        "editorBracketHighlight.foreground6": "#8071ee",
+        "editorBracketHighlight.foreground6": "#A887FC",
         "editorBracketMatch.background": "#b8002550",
         "editorBracketMatch.border": "#b80025",
         "editorCodeLens.foreground": "#3d996b",
@@ -171,7 +175,7 @@
         "editorGutter.foldingControlForeground": "#b80025",
         "editorGutter.modifiedBackground": "#e2c08d",
         "editorHint.border": "#222222",
-        "editorHint.foreground": "#8071ee",
+        "editorHint.foreground": "#A887FC",
         "editorHoverWidget.background": "#062621",
         "editorHoverWidget.border": "#ffffff00",
         "editorIndentGuide.background1": "#363537",
@@ -220,7 +224,7 @@
         "extensionButton.prominentBackground": "#363537",
         "extensionButton.prominentForeground": "#f7f1ff",
         "extensionButton.prominentHoverBackground": "#525053",
-        "extensionIcon.preReleaseForeground": "#8071ee",
+        "extensionIcon.preReleaseForeground": "#A887FC",
         "extensionIcon.sponsorForeground": "#5ad4e6",
         "extensionIcon.starForeground": "#fce566",
         "extensionIcon.verifiedForeground": "#7bd88f",
@@ -403,8 +407,8 @@
         "symbolIcon.arrayForeground": "#ef596f",
         "symbolIcon.booleanForeground": "#ef596f",
         "symbolIcon.classForeground": "#5ad4e6",
-        "symbolIcon.colorForeground": "#8071ee",
-        "symbolIcon.constantForeground": "#8071ee",
+        "symbolIcon.colorForeground": "#A887FC",
+        "symbolIcon.constantForeground": "#A887FC",
         "symbolIcon.constructorForeground": "#7bd88f",
         "symbolIcon.enumeratorForeground": "#fd9353",
         "symbolIcon.enumeratorMemberForeground": "#fd9353",
@@ -419,19 +423,19 @@
         "symbolIcon.methodForeground": "#7bd88f",
         "symbolIcon.moduleForeground": "#5ad4e6",
         "symbolIcon.namespaceForeground": "#5ad4e6",
-        "symbolIcon.nullForeground": "#8071ee",
-        "symbolIcon.numberForeground": "#8071ee",
+        "symbolIcon.nullForeground": "#A887FC",
+        "symbolIcon.numberForeground": "#A887FC",
         "symbolIcon.objectForeground": "#5ad4e6",
         "symbolIcon.operatorForeground": "#ef596f",
-        "symbolIcon.packageForeground": "#8071ee",
+        "symbolIcon.packageForeground": "#A887FC",
         "symbolIcon.propertyForeground": "#fd9353",
-        "symbolIcon.referenceForeground": "#8071ee",
+        "symbolIcon.referenceForeground": "#A887FC",
         "symbolIcon.snippetForeground": "#7bd88f",
         "symbolIcon.stringForeground": "#fce566",
         "symbolIcon.structForeground": "#ef596f",
         "symbolIcon.textForeground": "#fce566",
         "symbolIcon.typeParameterForeground": "#fd9353",
-        "symbolIcon.unitForeground": "#8071ee",
+        "symbolIcon.unitForeground": "#A887FC",
         "symbolIcon.variableForeground": "#5ad4e6",
         "tab.activeBackground": "#062621",
         "tab.activeBorder": "#b80025",
@@ -555,7 +559,7 @@
             "scope": "comment keyword.codetag.notation",
             "settings": {
                 "name": "Comment TODO / FIXME (at least in VSCode Python)",
-                "foreground": "#8071ee"
+                "foreground": "#A887FC"
             }
         },
         {
@@ -593,7 +597,7 @@
             "scope": "constant",
             "settings": {
                 "name": "Constant",
-                "foreground": "#8071ee"
+                "foreground": "#A887FC"
             }
         },
         {
@@ -607,7 +611,7 @@
             "scope": "constant.other.caps",
             "settings": {
                 "name": "Constant",
-                "foreground": "#8071ee"
+                "foreground": "#A887FC"
             }
         },
         {
@@ -621,35 +625,35 @@
             "scope": "constant.other.property",
             "settings": {
                 "name": "Constant as property",
-                "foreground": "#8071ee"
+                "foreground": "#A887FC"
             }
         },
         {
             "scope": "constant.other.citation.latex",
             "settings": {
                 "name": "Constant in latex",
-                "foreground": "#8071ee"
+                "foreground": "#A887FC"
             }
         },
         {
             "scope": "constant.other.color",
             "settings": {
                 "name": "Constant as color (in css / sass)",
-                "foreground": "#8071ee"
+                "foreground": "#A887FC"
             }
         },
         {
             "scope": "constant.other.character-class.escape",
             "settings": {
                 "name": "Constant as character class escape (e.g. in regex)",
-                "foreground": "#8071ee"
+                "foreground": "#A887FC"
             }
         },
         {
             "scope": "constant.other.key",
             "settings": {
                 "name": "Constant as key (e.g. in puppet manifests)",
-                "foreground": "#8071ee"
+                "foreground": "#A887FC"
             }
         },
         {
@@ -670,21 +674,21 @@
             "scope": "constant.numeric",
             "settings": {
                 "name": "Number",
-                "foreground": "#8071ee"
+                "foreground": "#A887FC"
             }
         },
         {
             "scope": "constant.language",
             "settings": {
                 "name": "Constant",
-                "foreground": "#8071ee"
+                "foreground": "#A887FC"
             }
         },
         {
             "scope": "constant.character.escape",
             "settings": {
                 "name": "Character escape",
-                "foreground": "#8071ee"
+                "foreground": "#A887FC"
             }
         },
         {
@@ -716,7 +720,7 @@
             ],
             "settings": {
                 "name": "Functions",
-                "foreground": "#45e68a"
+                "foreground": "#40d581"
             }
         },
         {
@@ -734,7 +738,7 @@
             "scope": "entity.name.label",
             "settings": {
                 "name": "label",
-                "foreground": "#8071ee"
+                "foreground": "#A887FC"
             }
         },
         {
@@ -748,7 +752,7 @@
             "scope": "entity.name",
             "settings": {
                 "name": "Entity name",
-                "foreground": "#45e68a"
+                "foreground": "#40d581"
             }
         },
         {
@@ -762,7 +766,7 @@
             "scope": "entity.name.constant",
             "settings": {
                 "name": "Constant name",
-                "foreground": "#8071ee"
+                "foreground": "#A887FC"
             }
         },
         {
@@ -784,7 +788,7 @@
             "scope": "entity.name.function",
             "settings": {
                 "name": "Function name",
-                "foreground": "#45e68a"
+                "foreground": "#40d581"
             }
         },
         {
@@ -845,7 +849,7 @@
             ],
             "settings": {
                 "name": "CSS class",
-                "foreground": "#45e68a"
+                "foreground": "#40d581"
             }
         },
         {
@@ -874,14 +878,14 @@
             ],
             "settings": {
                 "name": "Function names / calls",
-                "foreground": "#45e68a"
+                "foreground": "#40d581"
             }
         },
         {
             "scope": "entity.other.git-status.hex",
             "settings": {
                 "name": "git status commit hex",
-                "foreground": "#8071ee"
+                "foreground": "#A887FC"
             }
         },
         {
@@ -909,7 +913,7 @@
             "scope": "entity.name.operator.custom-literal.number",
             "settings": {
                 "name": "custom literal number",
-                "foreground": "#8071ee"
+                "foreground": "#A887FC"
             }
         },
         {
@@ -1080,7 +1084,7 @@
             "scope": "markup.underline.link",
             "settings": {
                 "name": "Link",
-                "foreground": "#45e68a"
+                "foreground": "#40d581"
             }
         },
         {
@@ -1090,7 +1094,7 @@
             ],
             "settings": {
                 "name": "Diff inserted",
-                "foreground": "#45e68a"
+                "foreground": "#40d581"
             }
         },
         {
@@ -1158,7 +1162,7 @@
             ],
             "settings": {
                 "name": "Function call (vs)",
-                "foreground": "#45e68a"
+                "foreground": "#40d581"
             }
         },
         {
@@ -1172,7 +1176,7 @@
             "scope": "meta.instance.constructor",
             "settings": {
                 "name": "Constructor (new MyClass())",
-                "foreground": "#45e68a"
+                "foreground": "#40d581"
             }
         },
         {
@@ -1182,7 +1186,7 @@
             ],
             "settings": {
                 "name": "Class string name (i.e. in html attributes)",
-                "foreground": "#45e68a"
+                "foreground": "#40d581"
             }
         },
         {
@@ -1230,7 +1234,7 @@
             ],
             "settings": {
                 "name": "Preprocessor",
-                "foreground": "#8071ee"
+                "foreground": "#A887FC"
             }
         },
         {
@@ -1346,7 +1350,7 @@
             ],
             "settings": {
                 "Name": "Punctuation hard line break in Markdown",
-                "background": "#8071ee"
+                "background": "#A887FC"
             }
         },
         {
@@ -1377,8 +1381,8 @@
             "scope": "region.greenish",
             "settings": {
                 "name": "region green color",
-                "foreground": "#45e68a",
-                "background": "#45e68a59"
+                "foreground": "#40d581",
+                "background": "#40d58159"
             }
         },
         {
@@ -1393,8 +1397,8 @@
             "scope": "region.purplish",
             "settings": {
                 "name": "region purple color",
-                "foreground": "#8071ee",
-                "background": "#8071ee59"
+                "foreground": "#A887FC",
+                "background": "#A887FC59"
             }
         },
         {
@@ -1452,7 +1456,7 @@
             "scope": "source.git-show.commit.sha",
             "settings": {
                 "name": "git",
-                "foreground": "#8071ee"
+                "foreground": "#A887FC"
             }
         },
         {
@@ -1475,7 +1479,7 @@
             ],
             "settings": {
                 "name": "git diff header hash",
-                "foreground": "#8071ee"
+                "foreground": "#A887FC"
             }
         },
         {
@@ -1541,7 +1545,7 @@
             "scope": "storage.class.restructuredtext.ref",
             "settings": {
                 "name": "refs (Restructured text)",
-                "foreground": "#8071ee"
+                "foreground": "#A887FC"
             }
         },
         {
@@ -1649,7 +1653,7 @@
             ],
             "settings": {
                 "name": "refs (Restructured text)",
-                "foreground": "#45e68a"
+                "foreground": "#40d581"
             }
         },
         {
@@ -1691,7 +1695,7 @@
             "scope": "support.function",
             "settings": {
                 "name": "Function name",
-                "foreground": "#45e68a"
+                "foreground": "#40d581"
             }
         },
         {
@@ -1738,7 +1742,7 @@
             "scope": "support.constant.core.rust",
             "settings": {
                 "name": "rust specific",
-                "foreground": "#8071ee"
+                "foreground": "#A887FC"
             }
         },
         {
@@ -1792,7 +1796,7 @@
             "scope": "variable.language.arguments",
             "settings": {
                 "name": "Reserved variable names: 'arguments'",
-                "foreground": "#8071ee"
+                "foreground": "#A887FC"
             }
         },
         {
@@ -1806,7 +1810,7 @@
             "scope": "variable.other.constant",
             "settings": {
                 "name": "Immutable variables, often via a const modifier, should receive the following scope. Depending on the language and semantics, entity.name.constant may be a better choice.",
-                "foreground": "#8071ee"
+                "foreground": "#A887FC"
             }
         },
         {
@@ -1827,7 +1831,7 @@
             "scope": "variable.other.enummember",
             "settings": {
                 "name": "Enum member",
-                "foreground": "#8071ee"
+                "foreground": "#A887FC"
             }
         },
         {
@@ -1845,7 +1849,7 @@
             "scope": "variable.function",
             "settings": {
                 "name": "Function and method names should be scoped using the following, but only when they are being invoked. When defined, they should use entity.name.function.",
-                "foreground": "#45e68a"
+                "foreground": "#40d581"
             }
         },
         {
@@ -1862,14 +1866,14 @@
             ],
             "settings": {
                 "name": "Ruby instance variables",
-                "foreground": "#8071ee"
+                "foreground": "#A887FC"
             }
         },
         {
             "scope": "source.jinja2 variable.other.jinja2.block",
             "settings": {
                 "name": "jinja2 variable block",
-                "foreground": "#45e68a"
+                "foreground": "#40d581"
             }
         },
         {
