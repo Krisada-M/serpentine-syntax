@@ -1,13 +1,25 @@
 {
   "name": "serpentine-syntax",
-  "displayName": "Poison Serpent",
-  "description": "custom by Krisada",
-  "version": "0.0.16",
+  "displayName": "Serpentine Syntax",
+  "description": "custom by ksd",
+  "version": "0.0.1",
   "engines": {
     "vscode": "^1.84.0"
   },
   "publisher": "Krisada-3131",
   "categories": [
     "Themes"
+  ],
+  "themes": [
+    {
+      "label": "Poison Serpent",
+      "uiTheme": "vs-dark",
+      "path": "./themes/Serpent-color-theme.json"
+    },
+    {
+      "label": "Poison Serpent Syntax 2",
+      "uiTheme": "vs-dark",
+      "path": "./themes/Serpent-color-theme-v2.json"
+    }
   ]
 }
