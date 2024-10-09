@@ -10,16 +10,18 @@
   "categories": [
     "Themes"
   ],
-  "themes": [
-    {
-      "label": "Poison Serpent",
-      "uiTheme": "vs-dark",
-      "path": "./themes/Serpent-color-theme.json"
-    },
-    {
-      "label": "Poison Serpent Syntax 2",
-      "uiTheme": "vs-dark",
-      "path": "./themes/Serpent-color-theme-v2.json"
-    }
-  ]
+  "contributes": {
+    "themes": [
+      {
+        "label": "Poison Serpent",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Serpent-color-theme.json"
+      },
+      {
+        "label": "Poison Serpent Syntax 2",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Serpent-color-theme-v2.json"
+      }
+    ]
+  }
 }
