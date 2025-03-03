@@ -2,7 +2,7 @@
   "name": "serpentine-syntax",
   "displayName": "Serpentine Syntax",
   "description": "custom by ksd",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.84.0"
   },
@@ -21,11 +21,6 @@
         "label": "Poison Serpent Syntax 2",
         "uiTheme": "vs-dark",
         "path": "./themes/Serpent-color-theme-v2.json"
-      },
-      {
-        "label": "White Serpent Syntax",
-        "uiTheme": "vs",
-        "path": "./themes/Serpent-white-color-theme.json"
       }
     ]
   }
